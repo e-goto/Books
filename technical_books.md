@@ -8,10 +8,13 @@ In Progress
 Thinking of Reading (In order of priority):
 - Web Scalability for Startup Engineers (Ejsmont)
 - Architecture Patterns with Python (Pericval, Gregory)
+- Designing Data-Intensive Applications (Kleppman)
+- Building Microservices: Designing Fine-Grained Systems (Newman)
+- SQL Antipatterns: Avoiding the Pitfalls of Database Programming (Karwin)
+- Database Design for Mere Mortals: 25th Anniversary Edition (Hernandez)
 - Phoenix Project
 - Mythical Man Month
 - Pragmatic Programmer (Thomas, Hunt)
-- Designing Data-Intensive Applications (Kleppman)
 - Refactoring (Fowler)
 - Domain Driven Design (Eric Evans)
 
