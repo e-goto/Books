@@ -3,7 +3,7 @@
 Technical as in related to Software Development, Software Engineering. Can also be about managing software projects.
 
 In Progress
-- 
+- Understanding Distributed Systems (Vitillo)
 
 
 Thinking of Reading (In order of priority):
