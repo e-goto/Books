@@ -3,7 +3,8 @@
 Technical as in related to Software Development, Software Engineering. Can also be about managing software projects.
 
 In Progress
-- Understanding Distributed Systems (Vitillo)
+- Understanding Distributed Systems (Vitillo) (Finished Reading, but notes not complete...)
+- Web Application Security, A Beginner's Guide (Sullivan, Liu)
 
 
 Thinking of Reading (In order of priority):
