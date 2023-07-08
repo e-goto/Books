@@ -7,17 +7,20 @@ In Progress
 - Database Design for Mere Mortals: 25th Anniversary Edition (Hernandez)
 
 Thinking of Reading (In order of priority):
+- A Philosophy of Software Design (Ousterhout)
 - Web Scalability for Startup Engineers (Ejsmont)
 - Architecture Patterns with Python (Pericval, Gregory)
 - Designing Data-Intensive Applications (Kleppman)
 - Building Microservices: Designing Fine-Grained Systems (Newman)
 - SQL Antipatterns: Avoiding the Pitfalls of Database Programming (Karwin)
-- Phoenix Project
-- Mythical Man Month
+- Domain-Driven Design Distilled (Vernon)
+- Implementing Domain-Driven Design (Vernon)
+- Domain Driven Design (Eric Evans) (might be redundant after reading the books by Vernon)
 - Pragmatic Programmer (Thomas, Hunt)
 - Refactoring (Fowler)
-- Domain Driven Design (Eric Evans)
 - Accelerate (Forgsen, Humble, Kim)
+- Phoenix Project
+- Mythical Man Month
 
 Completed:
 1. Code Complete (McConnell)
