@@ -21,6 +21,7 @@ Thinking of Reading (In order of priority):
 - Accelerate (Forgsen, Humble, Kim)
 - Phoenix Project
 - Mythical Man Month
+- The Scrum Field Guide: Practical Advice for Your First Year (Lacey)
 
 Completed:
 1. Code Complete (McConnell)
