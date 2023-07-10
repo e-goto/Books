@@ -4,10 +4,10 @@ Technical as in related to Software Development, Software Engineering. Can also 
 
 In Progress
 - Understanding Distributed Systems (Vitillo) (Finished Reading, but notes not complete...)
+- A Philosophy of Software Design (Ousterhout)
 - Database Design for Mere Mortals: 25th Anniversary Edition (Hernandez)
 
 Thinking of Reading (In order of priority):
-- A Philosophy of Software Design (Ousterhout)
 - Web Scalability for Startup Engineers (Ejsmont)
 - Architecture Patterns with Python (Pericval, Gregory)
 - Designing Data-Intensive Applications (Kleppman)
