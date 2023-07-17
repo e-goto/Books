@@ -3,7 +3,6 @@
 Technical as in related to Software Development, Software Engineering. Can also be about managing software projects.
 
 In Progress
-- Understanding Distributed Systems (Vitillo) (Finished Reading, but notes not complete...)
 - A Philosophy of Software Design (Ousterhout)
 - Database Design for Mere Mortals: 25th Anniversary Edition (Hernandez)
 
@@ -40,6 +39,10 @@ Thoughts: Basic overview of APIs, maybe not enough depth for a thorough understa
 
 Thoughts: Reading this made me think that Build APIs You won't hate was quite useful from a practical perspective. I think I would have been fine with just reading the other one
 
-5. Web Application Security, A Beginner's Guide (Sullivan, Liu)
+5. Understanding Distributed Systems (Vitillo)
+
+Thoughts: Great starting point for distributed systems. Provides an easy to digest introduction to many distributed systems concepts and provides links to many interesting articles for further reading.
+
+6. Web Application Security, A Beginner's Guide (Sullivan, Liu)
 
 Since my web security knowledge was at a pretty basic level this was a good read. Learned things I didn't know very well like SQL injections, cross site scripting (XSS), cross-site request forgery (CSRF), directory traversal. Some of the examples were really old which I thought was weird (myspace, silverlight, flash, facebook).
