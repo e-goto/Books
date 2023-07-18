@@ -3,7 +3,6 @@
 Technical as in related to Software Development, Software Engineering. Can also be about managing software projects.
 
 In Progress
-- A Philosophy of Software Design (Ousterhout)
 - Database Design for Mere Mortals: 25th Anniversary Edition (Hernandez)
 
 Thinking of Reading (In order of priority):
@@ -46,3 +45,7 @@ Thoughts: Great starting point for distributed systems. Provides an easy to dige
 6. Web Application Security, A Beginner's Guide (Sullivan, Liu)
 
 Since my web security knowledge was at a pretty basic level this was a good read. Learned things I didn't know very well like SQL injections, cross site scripting (XSS), cross-site request forgery (CSRF), directory traversal. Some of the examples were really old which I thought was weird (myspace, silverlight, flash, facebook).
+
+7. A Philosophy of Software Design (Ousterhout)
+
+Thoughts: Reduce complexity
