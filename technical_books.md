@@ -3,6 +3,7 @@
 Technical as in related to Software Development, Software Engineering. Can also be about managing software projects.
 
 In Progress
+- Building Microservices - Designing Fine-Grained Systems (Newman)
 - Architecture Patterns with Python (Pericval, Gregory)
 
 Thinking of Reading (In order of priority):
@@ -52,3 +53,7 @@ Thoughts: Reduce complexity
 8. Database Design for Mere Mortals: 25th Anniversary Edition (Hernandez)
 
 Reinforced? the basic termniology of databases. Would be nicer if there was more application? Maybe I didn't pay enough attention to the examples in the book. Large portions of the book weren't super applicable because they taught you about interviewing people to make databases
+
+9. NoSQL Distilled (Sandalage, Fowler)
+
+Introductory book to NoSQL. Learned about map reduce, column databases, graph databases. 
