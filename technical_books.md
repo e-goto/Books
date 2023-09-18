@@ -7,11 +7,10 @@ In Progress
 - Architecture Patterns with Python (Pericval, Gregory)
 
 Thinking of Reading (In order of priority):
+- Domain-Driven Design Distilled (Vernon)
 - Web Scalability for Startup Engineers (Ejsmont)
-- Building Microservices: Designing Fine-Grained Systems (Newman)
 - Designing Data-Intensive Applications (Kleppman)
 - SQL Antipatterns: Avoiding the Pitfalls of Database Programming (Karwin)
-- Domain-Driven Design Distilled (Vernon)
 - Implementing Domain-Driven Design (Vernon)
 - Domain Driven Design (Eric Evans) (might be redundant after reading the books by Vernon)
 - Pragmatic Programmer (Thomas, Hunt)
