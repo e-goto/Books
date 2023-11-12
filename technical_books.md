@@ -3,13 +3,12 @@
 Technical as in related to Software Development, Software Engineering. Can also be about managing software projects.
 
 In Progress
-- Building Microservices - Designing Fine-Grained Systems (Newman)
-- Architecture Patterns with Python (Pericval, Gregory)
+- Designing Data-Intensive Applications (Kleppman)
 
 Thinking of Reading (In order of priority):
 - Domain-Driven Design Distilled (Vernon)
+- Architecture Patterns with Python (Pericval, Gregory)
 - Web Scalability for Startup Engineers (Ejsmont)
-- Designing Data-Intensive Applications (Kleppman)
 - SQL Antipatterns: Avoiding the Pitfalls of Database Programming (Karwin)
 - Implementing Domain-Driven Design (Vernon)
 - Domain Driven Design (Eric Evans) (might be redundant after reading the books by Vernon)
@@ -56,3 +55,7 @@ Reinforced? the basic termniology of databases. Would be nicer if there was more
 9. NoSQL Distilled (Sandalage, Fowler)
 
 Introductory book to NoSQL. Learned about map reduce, column databases, graph databases. 
+
+10. Building Microservices - Designing Fine-Grained Systems (Newman)
+
+Information dense book on microservices. Definitely would benefit from a second read to understand everything presented in the book. Would also benefit reading about domain-driven design before second read? Defines microservices, communication mehtods, workflow, build/deployment, monitoring/observability, security, resiliency, scaling, and people related aspects (team organization, ownership).
